@@ -1,0 +1,74 @@
+
+test plan
+in list Duel dou testing
+Description
+Edit
+overview
+
+test the functionality of Duel Dou
+
+link
+
+(http://localhost:4000/)
+
+Test criteria
+
+button functionality
+dueling process
+styling is user friendly
+Entry criteria
+
+computer with internet connection
+browser that can access link above
+Exit criteria
+
+all high priority test are passing
+Other details
+
+site is designed for mobile environment
+
+
+
+
+Test Case: user navigation - smoke/sanity Test
+in list pasted testing
+Description
+Edit
+Description
+Smoke/high level test to verify that the user can navigate around the site
+
+Steps
+
+Navigate to duel duo
+click on the see all bots to see all the possible cards and there stats before dueling, click on draw button to draw 2 cards of your choosing, when done scroll to bottom of page click duel button, your cards and apposing teams cards will be shown and a winner will be determined. score should be shown of wined vs loses.
+see all bot button should show all bot cards that could possibly be drawn.
+‌
+
+Activity
+Show details
+Write a comment…
+shehr niazi 6 hours ago
+Date: 1/23/23
+Name : Shehrbano Niazi
+Results: test has failed. on 2 accounts
+OS: windows
+Browser: google chrome
+
+
+2 failed tests- criteria's not met
+in list failed testing
+Description
+Edit
+failed test
+
+on the homepage in the middle of the screen the blue see all bot button dose not allow used to click and see all bot cards.
+on the home page click the draw button it should take you to a screen where you ca choose 2 bots to fight with after choosing the bots. click the button on the bottom of the page. it should show you the opposing team and your team. them it will determine who is the winner. play until you have one win and one lose. the wins and loses are kept track of but notice when you win it id accounted for as a loss instead of a win
+‌
+
+
+2 buggs reported
+in list bugg report
+Description
+Edit
+on the homepage in the middle of the screen the blue see all bot button dose not allow used to click and see all bot cards.
+on the home page click the draw button it should take you to a screen where you ca choose 2 bots to fight with after choosing the bots. click the button on the bottom of the page. it should show you the opposing team and your team. them it will determine who is the winner. play until you have one win and one lose. the wins and loses are kept track of but notice when you win it id accounted for as a loss instead of a win
